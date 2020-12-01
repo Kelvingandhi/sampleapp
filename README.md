@@ -1,1 +1,2 @@
-This is sample app for learning
+This is sample app for learning.
+With few branches added.
