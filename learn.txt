@@ -3,3 +3,4 @@ My first change from remote
 My first change from new learn branch
 My first change from local
 My second change from remote
+checking fetch-merge vs pull
