@@ -1,4 +1,4 @@
 Hi
-Test file
+Test text file
 Kelvin added some changes
 Added this from PyCharm
