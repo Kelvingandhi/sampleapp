@@ -2,6 +2,5 @@ Hi
 Test file
 Kelvin added some changes
 Modified by gaurav
-<<<<<<< HEAD
 Today is Monday morning.
 Added this from PyCharm
